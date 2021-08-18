@@ -1,0 +1,70 @@
+table,th,td,tr{
+    border:solid 1px black ;
+    width: 766px;
+    height: 36px;
+}
+td{
+    background-color: #FFF;
+}
+.rodape{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 11px;
+    text-align: center;
+    background-color: #cfb;
+}
+a:link{
+    color: #0000FF;
+}
+a:visited{
+    color: #DDC71A;
+}
+a:active{
+    color: #ac0b44;
+}
+a:hover{
+    color: #FF0000;
+    font-weight: bold;
+}
+.titulo{
+    font-family: Arial;
+    font-weight: bold;
+    font-style: italic;
+    font-weight: 15px;
+    background-color: #FFF;
+}
+.origem{
+    font-family: Arial;
+    font-weight: bold;
+    font-weight: 20px;
+    color: #280;
+    background-color: #FFF;
+}
+.resumo{
+    font-family: Arial;
+    font-weight: 12px;
+    background-color: #FFF;
+}
+.origem{
+    font-family: Arial;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+    color: #280;
+}
+.ptitulo{
+    font-family: Arial;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 25px;
+    color: #006;
+}
+.presumo{
+    font-family: Arial;
+    font-style: italic;
+    font-size: 20px;
+}
+p{
+    color: green;
+    font-weight: bold;
+}
